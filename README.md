@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Michal-Radomski
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning Front-End
+- ☺️ I like travelling, Ubuntu and Raspberry-Pi
 
 
 <!---
