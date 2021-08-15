@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michal-Radomski
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning Front-End
+- 👀 I’m interested in Frontend and Backend (Node.js)
+- 🌱 I’m currently learning Backend (Node.js + Express.js)
 - ☺️ I like travelling, Ubuntu and Raspberry-Pi
 
 
