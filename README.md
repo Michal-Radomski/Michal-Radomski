@@ -8,7 +8,7 @@
 - :spider_web: Portfolio: [https://michal-radomski.github.io/](https://michal-radomski.github.io/)
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&langs_count=6&theme=buefy)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&langs_count=8&theme=buefy)]()
 <!---
 Michal-Radomski/Michal-Radomski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
