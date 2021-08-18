@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Michal-Radomski
+- :wave: Hi, I’m @Michal-Radomski
 - 👀 I’m interested in Frontend and Backend (Node.js)
-- 🌱 I’m currently learning Backend (Node.js + Express.js)
-- ☺️ I like travelling, Ubuntu and Raspberry-Pi
+- :brain: I’m currently learning Backend (Node.js + Express.js)
+- :smiley: I like travelling, Ubuntu and Raspberry-Pi
+- :spider_web: Portfolio: [https://michal-radomski.github.io/](https://michal-radomski.github.io/)
 
 
 <!---
