@@ -1,5 +1,6 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true)]()
 
+
 - :wave: Hi, I’m @Michal-Radomski
 - 👀 I’m interested in Frontend and Backend (Node.js)
 - :brain: I’m currently learning Backend (Node.js + Express.js)
