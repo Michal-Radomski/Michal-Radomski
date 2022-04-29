@@ -3,9 +3,10 @@
 
 - :wave: Hi, I’m @Michal-Radomski
 - 👀 I’m interested in Frontend and Backend (Node.js)
-- :brain: I’m currently learning Backend (Node.js + Express.js)
-- :smiley: I like travelling, Ubuntu and Raspberry-Pi
+- :brain: I’m currently learning Backend (Node.js and its ecosystem frameworks)
+- :milky_way: I like travelling, Ubuntu, Raspberry-Pi and astronomy
 - :spider_web: Portfolio: [https://michal-radomski.github.io](https://michal-radomski.github.io)
+- 😃 Udemy.com profile (for Logged In Udemy.com users only): [https://www.udemy.com/user/michal-radomski-7](https://www.udemy.com/user/michal-radomski-7)
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&langs_count=8&theme=buefy)]()
