@@ -8,7 +8,7 @@
 - 😃 Udemy.com profile (_for Logged In Udemy.com users only_):
   [https://www.udemy.com/user/michal-radomski-7](https://www.udemy.com/user/michal-radomski-7)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&langs_count=8&theme=buefy)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=8&theme=buefy)]()
 
 <!---
 Michal-Radomski/Michal-Radomski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
