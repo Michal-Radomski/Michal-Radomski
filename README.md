@@ -1,10 +1,10 @@
 ## GitHub Stats and Languages
 
 <a href="https://github.com/Michal-Radomski">
-  <img align="right" style="height: 195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=8&theme=buefy" />
+  <img align="left" style="height: 195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=8&theme=buefy" />
 </a>
 <a href="https://github.com/Michal-Radomski">
-  <img align="left" style="height: 195px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" />
+  <img align="right" style="height: 195px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" />
 </a>
 
 </br></br></br></br></br></br></br></br></br>
