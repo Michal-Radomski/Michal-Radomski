@@ -1,0 +1,8 @@
+{
+  "urlPrefix": "https://github.com/get-icon/geticon/raw/master/icons/",
+  "inputFile": "input.txt",
+  "outputFile": "output.md",
+  "iconSizeInPixel": 21,
+  "template": "<a href=\"${itemWebsiteUrl}\" title=\"${itemFormalName}\"><img src=\"${urlPrefix}${itemSvgUrl}\" alt=\"${itemFormalName}\" width=\"26px\" height=\"26px\"></a>",
+  "separator": "\n"
+}

@@ -1,27 +1,3 @@
-## GitHub Languages and Stats
-
-<a href="https://github.com/Michal-Radomski">
-  <img align="left" style="height: 195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=8&theme=buefy" />
-</a>
-<a href="https://github.com/Michal-Radomski">
-  <img align="right" style="height: 195px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" />
-</a>
-
-</br></br></br></br></br></br></br></br></br>
-
-## About Me
-
-- :wave: Hi, I’m @Michal-Radomski
-- 👀 I’m interested in Frontend and Backend (Node.js)
-- :brain: I’m currently learning Backend (Node.js and its ecosystem frameworks)
-- :milky_way: I like travelling, Ubuntu, Raspberry-Pi and astronomy
-- :spider_web: Portfolio: [https://michal-radomski.github.io](https://michal-radomski.github.io)
-- 😃 Udemy.com profile (**_for Logged In Udemy.com users only_**):
-  [https://www.udemy.com/user/michal-radomski-7](https://www.udemy.com/user/michal-radomski-7)
-
-## Languages, Technologies and Tools
-
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; align-content:center, gap: 5px">
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="26px" height="26px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="26px" height="26px"></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="26px" height="26px"></a>
@@ -50,10 +26,3 @@
 <a href="https://openlayers.org/" title="OpenLayers"><img src="https://github.com/get-icon/geticon/raw/master/icons/openlayers.svg" alt="OpenLayers" width="26px" height="26px"></a>
 <a href="https://oauth.net/" title="OAuth"><img src="https://github.com/get-icon/geticon/raw/master/icons/oauth.svg" alt="OAuth" width="26px" height="26px"></a>
 <a href="https://www.w3.org/Graphics/SVG/" title="SVG"><img src="https://github.com/get-icon/geticon/raw/master/icons/svg.svg" alt="SVG" width="26px" height="26px"></a>
-</div>
-
-</br></br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Michal-Radomski&color=blueviolet" alt="counter for Michal-Radomski" />
-</p>
