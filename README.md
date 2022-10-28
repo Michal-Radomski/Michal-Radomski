@@ -37,14 +37,10 @@
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="52px" height="52px"></a>
 <!-- <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="52px" height="52px"></a> -->
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="52px" height="52px"></a>
-<!-- <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="52px" height="52px"></a> -->
 <!-- <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="52px" height="52px"></a> -->
 <a href="https://www.linuxfoundation.org/" title="Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="52px" height="52px"></a>
 <!-- <a href="https://www.raspberrypi.org/" title="Raspberry Pi"><img src="https://github.com/get-icon/geticon/raw/master/icons/raspberry-pi.svg" alt="Raspberry Pi" width="52px" height="52px"></a> -->
 <!-- <a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="52px" height="52px"></a> -->
-<!-- <a href="https://babeljs.io/" title="Babel"><img src="https://github.com/get-icon/geticon/raw/master/icons/babel.svg" alt="Babel" width="52px" height="52px"></a> -->
-<!-- <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="52px" height="52px"></a> -->
-<!-- <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="52px" height="52px"></a> -->
 <!-- <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="52px" height="52px"></a> -->
 <a href="https://openlayers.org/" title="OpenLayers"><img src="https://github.com/get-icon/geticon/raw/master/icons/openlayers.svg" alt="OpenLayers" width="52px" height="52px"></a>
 <a href="https://oauth.net/" title="OAuth"><img src="https://github.com/get-icon/geticon/raw/master/icons/oauth.svg" alt="OAuth" width="52px" height="52px"></a>
