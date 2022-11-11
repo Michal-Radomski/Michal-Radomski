@@ -17,3 +17,4 @@
 <img alt="Screenshot of Udemy certificate" src="15_Typescript_-_The_Complete_Developers_Guide.jpg">
 <img alt="Screenshot of Udemy certificate" src="16_Just_Express.jpg">
 <img alt="Screenshot of Udemy certificate" src="17_EJS_Template_Course.jpg">
+<img alt="Screenshot of Udemy certificate" src="18_MongoDB_and_Mongoose_Course.jpg">
