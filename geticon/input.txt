@@ -12,6 +12,7 @@ Node.js
 Express.js
 MongoDB
 MySQL
+PostgreSQL
 Firebase
 git
 npm

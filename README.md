@@ -1,7 +1,7 @@
 # GitHub Languages and Stats
 
 <a href="https://github.com/Michal-Radomski">
-  <img align="left" style="height: 195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=8&theme=buefy" />
+  <img align="left" style="height: 195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=10&theme=buefy" />
 </a>
 <a href="https://github.com/Michal-Radomski">
   <img align="right" style="height: 195px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" />
@@ -36,7 +36,8 @@
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="52px" height="52px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="52px" height="52px"></a>
 <!-- <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="52px" height="52px"></a> -->
-<a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="52px" height="52px"></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="52px" height="52px"></a>
+<!-- <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="52px" height="52px"></a> -->
 <!-- <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="52px" height="52px"></a> -->
 <a href="https://www.linuxfoundation.org/" title="Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="52px" height="52px"></a>
 <!-- <a href="https://www.raspberrypi.org/" title="Raspberry Pi"><img src="https://github.com/get-icon/geticon/raw/master/icons/raspberry-pi.svg" alt="Raspberry Pi" width="52px" height="52px"></a> -->
