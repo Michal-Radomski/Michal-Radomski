@@ -53,3 +53,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Michal-Radomski&color=blueviolet" alt="counter for Michal-Radomski" />
 </p>
+
+<!-- TODO: replace OpenLayers with Leaflet.js ?? -->
