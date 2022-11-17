@@ -25,5 +25,9 @@
 <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="21px" height="21px"></a>
 <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="21px" height="21px"></a>
 <a href="https://openlayers.org/" title="OpenLayers"><img src="https://github.com/get-icon/geticon/raw/master/icons/openlayers.svg" alt="OpenLayers" width="21px" height="21px"></a>
+
+<!-- Edited below -->
+
+<a href="https://leafletjs.com/" title="Leaflet.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/leafjet.svg" alt="Leaflet.js" width="21px" height="21px"></a>
 <a href="https://oauth.net/" title="OAuth"><img src="https://github.com/get-icon/geticon/raw/master/icons/oauth.svg" alt="OAuth" width="21px" height="21px"></a>
 <a href="https://www.w3.org/Graphics/SVG/" title="SVG"><img src="https://github.com/get-icon/geticon/raw/master/icons/svg.svg" alt="SVG" width="21px" height="21px"></a>

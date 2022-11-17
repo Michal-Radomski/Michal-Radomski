@@ -43,7 +43,8 @@
 <!-- <a href="https://www.raspberrypi.org/" title="Raspberry Pi"><img src="https://github.com/get-icon/geticon/raw/master/icons/raspberry-pi.svg" alt="Raspberry Pi" width="52px" height="52px"></a> -->
 <!-- <a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="52px" height="52px"></a> -->
 <!-- <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="52px" height="52px"></a> -->
-<a href="https://openlayers.org/" title="OpenLayers"><img src="https://github.com/get-icon/geticon/raw/master/icons/openlayers.svg" alt="OpenLayers" width="52px" height="52px"></a>
+<!-- <a href="https://openlayers.org/" title="OpenLayers"><img src="https://github.com/get-icon/geticon/raw/master/icons/openlayers.svg" alt="OpenLayers" width="52px" height="52px"></a> -->
+<a href="https://leafletjs.com/" title="Leaflet.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/leafjet.svg" alt="Leaflet.js" width="52px" height="52px"></a>
 <a href="https://oauth.net/" title="OAuth"><img src="https://github.com/get-icon/geticon/raw/master/icons/oauth.svg" alt="OAuth" width="52px" height="52px"></a>
 <!-- <a href="https://www.w3.org/Graphics/SVG/" title="SVG"><img src="https://github.com/get-icon/geticon/raw/master/icons/svg.svg" alt="SVG" width="52px" height="52px"></a> -->
 </div>
@@ -53,5 +54,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Michal-Radomski&color=blueviolet" alt="counter for Michal-Radomski" />
 </p>
-
-<!-- TODO: replace OpenLayers with Leaflet.js ?? -->
