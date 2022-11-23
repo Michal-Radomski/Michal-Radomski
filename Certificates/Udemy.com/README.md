@@ -18,3 +18,4 @@
 <img alt="Screenshot of Udemy certificate" src="16_Just_Express.jpg">
 <img alt="Screenshot of Udemy certificate" src="17_EJS_Template_Course.jpg">
 <img alt="Screenshot of Udemy certificate" src="18_MongoDB_and_Mongoose_Course.jpg">
+<img alt="Screenshot of Udemy certificate" src="19_SQL_and_PostgreSQL.jpg">
