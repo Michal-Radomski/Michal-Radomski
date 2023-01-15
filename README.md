@@ -7,17 +7,13 @@
   <img align="right" style="height: 205px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" />
 </a>
 
-</br>
-</br>
+<!-- </br>
+</br> -->
 
 <p align="center">
-<img  src="https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/Michal-Radomski">
-<img align="center" src="https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D"/>
-</a>
+  <a href="https://github.com/Michal-Radomski">
+    <img align="center" src="https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D"/>
+  </a>
 </p>
 
 <a href="https://github.com/Michal-Radomski">
@@ -27,7 +23,7 @@
   <img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App" />
 </a>
 
-</br></br></br></br></br></br></br></br></br></br>
+<!-- </br></br></br></br></br></br></br></br></br></br> -->
 
 ## About Me
 
