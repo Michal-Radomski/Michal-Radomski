@@ -10,10 +10,10 @@
 </br></br></br></br></br></br></br></br></br></br>
 
 <a href="https://github.com/Michal-Radomski/MERN_with_Stripe_and_Sendgrid">
-  <img align="left" style="max-width: 395px" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid"/>
+  <img align="left" style="width: 395px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid"/>
 </a>
 <a href="https://github.com/Michal-Radomski/MarsInfo_App">
-  <img align="right" style="max-width: 395px" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App"/>
+  <img align="right" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App"/>
 </a>
 
 </br></br></br></br></br></br></br></br>
