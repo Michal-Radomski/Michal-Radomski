@@ -10,7 +10,7 @@
 </br></br></br></br></br></br></br></br></br></br>
 
 <a href="https://github.com/Michal-Radomski/MERN_with_Stripe_and_Sendgrid">
-  <img align="left" style="width: 395px !important" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid"/>
+  <img align="left" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid"/>
 </a>
 <a href="https://github.com/Michal-Radomski/MarsInfo_App">
   <img align="right" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App"/>
@@ -30,7 +30,7 @@
 
 ## Languages, Technologies and Tools
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; align-content:center, gap: 4px">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; align-content:center, gap: 5px">
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="52px" height="52px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="52px" height="52px"></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="52px" height="52px"></a>
@@ -63,6 +63,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Michal-Radomski&color=blueviolet" alt="counter for Michal-Radomski" />
 </p>
+
+</br></br>
 
 <p align="center">
   <a href="https://github.com/Michal-Radomski/Michal-Radomski">
