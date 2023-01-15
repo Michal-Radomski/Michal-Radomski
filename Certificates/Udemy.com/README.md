@@ -21,3 +21,5 @@
 <img alt="Screenshot of Udemy certificate" src="19_SQL_and_PostgreSQL.jpg">
 <img alt="Screenshot of Udemy certificate" src="20_NodeJS_MySQL_Login_System.jpg">
 <img alt="Screenshot of Udemy certificate" src="21_React_Leaflet.jpg">
+<img alt="Screenshot of Udemy certificate" src="22_Algorithms_in_JS.jpg">
+<img alt="Screenshot of Udemy certificate" src="23_Data_Structures_in_JS.jpg">
