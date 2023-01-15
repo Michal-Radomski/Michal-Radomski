@@ -14,7 +14,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Michal-Radomski"/>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Michal-Radomski&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D&dates=DD2727&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <div style="display: flex, flex; flex-direction:row, justify-content:space-between, align-items:center, align-content:center">
 
@@ -23,6 +23,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App)](https://github.com/Michal-Radomski/MarsInfo_App)
 
 </div>
+
+<a href="https://github.com/Michal-Radomski">
+  <img align="right" style="height: 205px" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid" />
+</a>
 
 </br></br></br></br></br></br></br></br></br></br>
 
