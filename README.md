@@ -22,7 +22,7 @@
   <img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App" />
 </a>
 
-</br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br>
 
 ## About Me
 
