@@ -16,16 +16,19 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<div style="display: flex, flex; flex-direction:row, justify-content:space-between, align-items:center, align-content:center">
+<!-- <div style="display: flex, flex; flex-direction:row, justify-content:space-between, align-items:center, align-content:center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid)](https://github.com/Michal-Radomski/MERN_with_Stripe_and_Sendgrid)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App)](https://github.com/Michal-Radomski/MarsInfo_App)
 
-</div>
+</div> -->
 
 <a href="https://github.com/Michal-Radomski">
-  <img align="right" style="height: 205px" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid" />
+</a>
+<a href="https://github.com/Michal-Radomski">
+  <img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App" />
 </a>
 
 </br></br></br></br></br></br></br></br></br></br>
