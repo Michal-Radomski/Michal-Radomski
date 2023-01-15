@@ -9,17 +9,11 @@
 
 </br></br></br></br></br></br></br></br></br></br>
 
-<p align="center">
-  <a href="https://github.com/Michal-Radomski/Michal-Radomski">
-    <img src="https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D"/>
-  </a>
-</p>
-
 <a href="https://github.com/Michal-Radomski/MERN_with_Stripe_and_Sendgrid">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid" style="padding-right:15px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid" style="padding-right: 15px !important"/>
 </a>
 <a href="https://github.com/Michal-Radomski/MarsInfo_App">
-  <img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App" style="padding-left:15px"/>
+  <img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App" style="padding-left: 15px !important"/>
 </a>
 
 </br></br></br></br></br></br></br></br>
@@ -69,6 +63,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Michal-Radomski&color=blueviolet" alt="counter for Michal-Radomski" />
 </p>
+
 <p align="center">
   <a href="https://github.com/Michal-Radomski/Michal-Radomski">
     <img src="https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D"/>
