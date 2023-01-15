@@ -10,16 +10,16 @@
 </br></br></br></br></br></br></br></br></br></br>
 
 <p align="center">
-  <a href="https://github.com/Michal-Radomski">
+  <a href="https://github.com/Michal-Radomski/Michal-Radomski">
     <img src="https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </p>
 
-<a href="https://github.com/Michal-Radomski">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid" />
+<a href="https://github.com/Michal-Radomski/MERN_with_Stripe_and_Sendgrid">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid" style="padding-right:15px"/>
 </a>
-<a href="https://github.com/Michal-Radomski">
-  <img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App" />
+<a href="https://github.com/Michal-Radomski/MarsInfo_App">
+  <img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App" style="padding-left:15px"/>
 </a>
 
 </br></br></br></br></br></br></br></br>
@@ -36,7 +36,7 @@
 
 ## Languages, Technologies and Tools
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; align-content:center, gap: 5px">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; align-content:center, gap: 4px">
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="52px" height="52px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="52px" height="52px"></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="52px" height="52px"></a>
@@ -68,4 +68,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Michal-Radomski&color=blueviolet" alt="counter for Michal-Radomski" />
+</p>
+<p align="center">
+  <a href="https://github.com/Michal-Radomski/Michal-Radomski">
+    <img src="https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D"/>
+  </a>
 </p>
