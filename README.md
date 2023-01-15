@@ -64,7 +64,7 @@
   <img src="https://komarev.com/ghpvc/?username=Michal-Radomski&color=blueviolet" alt="counter for Michal-Radomski" />
 </p>
 
-</br></br>
+</br>
 
 <p align="center">
   <a href="https://github.com/Michal-Radomski/Michal-Radomski">
