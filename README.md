@@ -71,3 +71,7 @@
     <img src="https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </p>
+
+</br>
+
+![Snake animation](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.svg)
