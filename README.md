@@ -7,6 +7,18 @@
   <img align="right" style="height: 205px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" />
 </a>
 
+</br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Michal-Radomski"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Michal-Radomski&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D&dates=DD2727&fire=DD2727)](https://git.io/streak-stats)
+
+https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App)](https://github.com/anuraghazra/github-readme-stats)
+
 </br></br></br></br></br></br></br></br></br></br>
 
 ## About Me
