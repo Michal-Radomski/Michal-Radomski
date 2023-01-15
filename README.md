@@ -7,7 +7,7 @@
   <img align="right" style="height: 205px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" />
 </a>
 
-</br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br>
 
 <p align="center">
   <a href="https://github.com/Michal-Radomski">
