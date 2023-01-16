@@ -28,6 +28,8 @@
 - 😃 Udemy.com profile (**_for Logged In Udemy.com users only_**):
   [https://www.udemy.com/user/michal-radomski-7](https://www.udemy.com/user/michal-radomski-7)
 
+</br>
+
 ## Languages, Technologies and Tools
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; align-content:center, gap: 5px">
