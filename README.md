@@ -1,4 +1,4 @@
-# GitHub Languages and Stats
+# :fire: GitHub Languages and Stats
 
 <a href="https://github.com/Michal-Radomski?tab=repositories">
   <img align="left" style="height: 205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=10&theme=buefy" />
@@ -18,19 +18,19 @@
 
 </br></br></br></br></br></br></br></br>
 
-## About Me
+## :man_technologist: About Me
 
 - :wave: Hi, I’m @Michal-Radomski
 - 👀 I’m interested in Frontend and Backend (Node.js)
 - :brain: I’m currently learning Backend (Node.js and its ecosystem frameworks)
-- :milky_way: I like travelling, Ubuntu, Raspberry-Pi and astronomy
+- :milky_way: I like travelling, Ubuntu, Raspberry-Pi and astronomy :telescope:
 - :spider_web: Portfolio: [https://michal-radomski.github.io](https://michal-radomski.github.io)
 - 😃 Udemy.com profile (**_for Logged In Udemy.com users only_**):
   [https://www.udemy.com/user/michal-radomski-7](https://www.udemy.com/user/michal-radomski-7)
 
 </br>
 
-## Languages, Technologies and Tools
+## :hammer_and_wrench: Languages, Technologies and Tools
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; align-content:center, gap: 5px">
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="51px" height="51px"></a>
