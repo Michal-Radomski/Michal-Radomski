@@ -7,16 +7,16 @@
   <img align="right" style="height: 205px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" />
 </a>
 
-<!-- </br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br>
 
-<a href="https://github.com/Michal-Radomski/MERN_with_Stripe_and_Sendgrid">
+<!-- <a href="https://github.com/Michal-Radomski/MERN_with_Stripe_and_Sendgrid">
   <img align="left" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid"/>
 </a>
 <a href="https://github.com/Michal-Radomski/MarsInfo_App">
   <img align="right" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MarsInfo_App"/>
-</a> -->
+</a>
 
-</br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br> -->
 
 ## :man_technologist: About Me
 
