@@ -16,7 +16,7 @@
   <img align="right" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=PERN_Stack_App"/>
 </a>
 
-</br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br>
 
 ## :man_technologist: About Me
 
