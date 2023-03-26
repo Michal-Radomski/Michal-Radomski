@@ -1,7 +1,7 @@
 # :fire: GitHub Languages and Stats
 
 <a href="https://github.com/Michal-Radomski?tab=repositories">
-  <img align="left" style="height: 205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=10&theme=buefy" />
+  <img align="left" style="height: 205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=10&theme=buefy&exclude_repo=Udemy_Frontend_Courses" />
 </a>
 <a href="https://github.com/Michal-Radomski?tab=repositories">
   <img align="right" style="height: 205px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" />
