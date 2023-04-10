@@ -24,3 +24,4 @@
 <img alt="Screenshot of Udemy certificate" src="22_Algorithms_in_JS.jpg">
 <img alt="Screenshot of Udemy certificate" src="23_Data_Structures_in_JS.jpg">
 <img alt="Screenshot of Udemy certificate" src="24_Master_Bootstrap_5.jpg">
+<img alt="Screenshot of Udemy certificate" src="25_JavaScript_Math_Games.jpg">
