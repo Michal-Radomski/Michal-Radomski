@@ -26,3 +26,4 @@
 <img alt="Screenshot of Udemy certificate" src="24_Master_Bootstrap_5.jpg">
 <img alt="Screenshot of Udemy certificate" src="25_JavaScript_Math_Games.jpg">
 <img alt="Screenshot of Udemy certificate" src="26_Advanced_CSS_and_Sass.jpg">
+<img alt="Screenshot of Udemy certificate" src="27_GIS_Data_with_Leaflet_and_Turf">
