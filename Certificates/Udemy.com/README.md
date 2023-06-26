@@ -28,3 +28,4 @@
 <img alt="Screenshot of Udemy certificate" src="26_Advanced_CSS_and_Sass.jpg">
 <img alt="Screenshot of Udemy certificate" src="27_GIS_Data_with_Leaflet_and_Turf.jpg">
 <img alt="Screenshot of Udemy certificate" src="28_Mobile_Leaflet.jpg">
+<img alt="Screenshot of Udemy certificate" src="29_Chart_JS,_the_complete_guide.jpg">
