@@ -30,4 +30,5 @@
 <img alt="Screenshot of Udemy certificate" src="28_Mobile_Leaflet.jpg">
 <img alt="Screenshot of Udemy certificate" src="29_Chart_JS,_the_complete_guide.jpg">
 <img alt="Screenshot of Udemy certificate" src="30_Responsive_HTML_and_CSS.jpg">
-<img alt="Screenshot of Udemy certificate" src="31_Advanced_React_ and_Redux.jpg">
+<img alt="Screenshot of Udemy certificate" src="31_Advanced_React_and_Redux.jpg">
+<img alt="Screenshot of Udemy certificate" src="32-NodeJS_-_Advanced_Concepts.jpg">
