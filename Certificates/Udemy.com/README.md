@@ -34,3 +34,4 @@
 <img alt="Screenshot of Udemy certificate" src="32-NodeJS_-_Advanced_Concepts.jpg">
 <img alt="Screenshot of Udemy certificate" src="33_Hacking_and_Securing_JWT.jpg">
 <img alt="Screenshot of Udemy certificate" src="34_XML_and_JSON.jpg">
+<img alt="Screenshot of Udemy certificate" src="35_SVG.jpg">
