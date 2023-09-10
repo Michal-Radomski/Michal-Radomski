@@ -38,3 +38,4 @@
 <img alt="Screenshot of Udemy certificate" src="36_HTML5_Canvas.jpg">
 <img alt="Screenshot of Udemy certificate" src="37_Graphic_Design_Theory.jpg">
 <img alt="Screenshot of Udemy certificate" src="38_ES6_JS.jpg">
+<img alt="Screenshot of Udemy certificate" src="39_OOP_JS.jpg">
