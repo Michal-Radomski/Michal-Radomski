@@ -43,3 +43,4 @@
 <img alt="Screenshot of Udemy certificate" src="41_JS_Arrays.jpg">
 <img alt="Screenshot of Udemy certificate" src="42_Functional_Programming_JS.jpg">
 <img alt="Screenshot of Udemy certificate" src="43_JS_RegExp.jpg">
+<img alt="Screenshot of Udemy certificate" src="44_JS_Advanced_Topics.jpg">
