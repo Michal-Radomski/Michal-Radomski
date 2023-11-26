@@ -45,3 +45,4 @@
 <img alt="Screenshot of Udemy certificate" src="43_JS_RegExp.jpg">
 <img alt="Screenshot of Udemy certificate" src="44_JS_Advanced_Topics.jpg">
 <img alt="Screenshot of Udemy certificate" src="45_JS_-_The_Critical_Parts.jpg">
+<img alt="Screenshot of Udemy certificate" src="46_JS_Weird_Parts.jpg">
