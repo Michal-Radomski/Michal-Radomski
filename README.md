@@ -22,7 +22,7 @@
 
 - :wave: Hi, I’m @Michal-Radomski
 - 👀 I’m interested in Frontend and Backend (Node.js)
-<!-- - :brain: I’m currently learning Backend (Node.js and its ecosystem frameworks) -->
+- :brain: I'm currently learning different libraries
 - :milky_way: I like travelling, Ubuntu, Raspberry-Pi and astronomy :telescope:
 - :spider_web: Portfolio: [https://michal-radomski.github.io](https://michal-radomski.github.io)
 - 😃 Udemy.com profile (**_for Logged In Udemy.com users only_**):
@@ -79,6 +79,6 @@
 
 <!-- Snake svg/gif -->
 
-![Snake animation](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.svg) -->
 
-<!-- ![snake gif](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.gif) -->
+![snake gif](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.gif)
