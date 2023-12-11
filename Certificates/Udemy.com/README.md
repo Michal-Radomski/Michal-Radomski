@@ -47,3 +47,4 @@
 <img alt="Screenshot of Udemy certificate" src="45_JS_-_The_Critical_Parts.jpg">
 <img alt="Screenshot of Udemy certificate" src="46_JS_Weird_Parts.jpg">
 <img alt="Screenshot of Udemy certificate" src="47_Advanced_JS_Concepts.jpg">
+<img alt="Screenshot of Udemy certificate" src="48_Clean_Code.jpg">
