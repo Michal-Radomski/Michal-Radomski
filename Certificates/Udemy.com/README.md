@@ -50,3 +50,4 @@
 <img alt="Screenshot of Udemy certificate" src="48_Clean_Code.jpg">
 <img alt="Screenshot of Udemy certificate" src="49_Styled_Components.jpg">
 <img alt="Screenshot of Udemy certificate" src="50_React_Libraries.jpg">
+<img alt="Screenshot of Udemy certificate" src="51_Webpack5_+_Vite.jpg">
