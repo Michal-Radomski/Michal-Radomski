@@ -1,19 +1,19 @@
 # :fire: GitHub Languages and Stats
 
 <a href="https://github.com/Michal-Radomski?tab=repositories">
-  <img align="left" style="height: 225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=12&theme=buefy&exclude_repo=Udemy_Frontend_Courses" />
+  <img align="left" style="height: 225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=12&theme=buefy&exclude_repo=Udemy_Frontend_Courses" alt="Stats"/>
 </a>
 <a href="https://github.com/Michal-Radomski?tab=repositories">
-  <img align="right" style="height: 225px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" />
+  <img align="right" style="height: 225px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" alt="Repos"/>
 </a>
 
 </br></br></br></br></br></br></br></br></br></br></br>
 
 <a href="https://github.com/Michal-Radomski/MERN_with_Stripe_and_Sendgrid">
-  <img align="left" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid"/>
+  <img align="left" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid" alt="MERN stack app"/>
 </a>
 <a href="https://github.com/Michal-Radomski/PERN_Stack_App">
-  <img align="right" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=PERN_Stack_App"/>
+  <img align="right" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=PERN_Stack_App" alt="PERN stack app"/>
 </a>
 
 </br></br></br></br></br></br></br>
@@ -34,7 +34,7 @@
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; align-content:center, gap: 5px">
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="47px" height="47px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="47px" height="47px"></a>
+<!-- <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="47px" height="47px"></a> -->
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="47px" height="47px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="47px" height="47px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="47px" height="47px"></a>
@@ -52,7 +52,7 @@
 <!-- <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="47px" height="47px"></a> -->
 <a href="https://www.linuxfoundation.org/" title="Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="47px" height="47px"></a>
 <!-- <a href="https://www.raspberrypi.org/" title="Raspberry Pi"><img src="https://github.com/get-icon/geticon/raw/master/icons/raspberry-pi.svg" alt="Raspberry Pi" width="47px" height="47px"></a> -->
-<!-- <a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="47px" height="47px"></a> -->
+<a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="47px" height="47px"></a>
 <!-- <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="47px" height="47px"></a> -->
 <!-- <a href="https://openlayers.org/" title="OpenLayers"><img src="https://github.com/get-icon/geticon/raw/master/icons/openlayers.svg" alt="OpenLayers" width="47px" height="47px"></a> -->
 <a href="https://leafletjs.com/" title="Leaflet.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/leafjet.svg" alt="Leaflet.js" width="47px" height="47px"></a>
@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://github.com/Michal-Radomski/Michal-Radomski">
-    <img src="https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D"/>
+    <img src="https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D" alt ="Contributions snake game"/>
   </a>
 </p>
 
@@ -79,6 +79,6 @@
 
 <!-- Snake svg/gif -->
 
-<!-- ![Snake animation](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.gif) -->
