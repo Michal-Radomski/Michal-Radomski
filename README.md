@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="Media/Udemy_stats.png" alt="Udemy Stats" width="495px" height="auto" style="border-radius: 0.75rem"/>
+  <img src="Media/Udemy_stats.png" alt="Udemy Stats" width="495px" height="auto" style="border-radius: 0.75rem; border: 1px solid gray"/>
 </p>
 
 </br>
