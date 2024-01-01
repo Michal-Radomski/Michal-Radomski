@@ -83,6 +83,14 @@
 
 <!-- Snake svg/gif -->
 
-<!-- ![Snake animation](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.svg)
 
 ![snake gif](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.gif)
+
+<picture>
+
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake" />
+</picture>
+
+<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Michal-Radomski&theme=github">
