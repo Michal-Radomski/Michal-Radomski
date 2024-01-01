@@ -76,7 +76,13 @@
 </p>
 
 <p align="center">
-  <img src="Media/Udemy_stats.png" alt="Udemy Stats" width="495px" height="auto" style="border-radius: 0.75rem; border: 1px solid gray"/>
+  <a href="https://github.com/Michal-Radomski/Michal-Radomski">
+<img width="495px" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=Michal-Radomski&theme=github-light" alt ="Last month stats">
+  </a>
+</p>
+
+<p align="center">
+  <img src="Media/Udemy_stats.png" alt="Udemy Stats" width="495px" height="auto" style="border-radius: 0.75rem"/>
 </p>
 
 </br>
@@ -85,12 +91,4 @@
 
 ![Snake animation](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.gif)
-
-<picture>
-
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake" />
-</picture>
-
-<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Michal-Radomski&theme=github">
+<!-- ![snake gif](https://github.com/Michal-Radomski/Michal-Radomski/blob/output/github-contribution-grid-snake.gif) -->
