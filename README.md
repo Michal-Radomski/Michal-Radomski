@@ -76,8 +76,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Michal-Radomski/Michal-Radomski">
-<img width="495px" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=Michal-Radomski&theme=github-light" alt ="Last month stats">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=Michal-Radomski&theme=github-light">
+<img width="530px" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=Michal-Radomski&theme=github-light" alt ="Last month stats">
   </a>
 </p>
 
