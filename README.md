@@ -21,12 +21,12 @@
 ## :man_technologist: About Me
 
 - :wave: Hi, I’m @Michal-Radomski
-- 👀 I’m interested in Frontend and Backend (Node.js)
-- :brain: I'm currently learning different libraries
+- 👀 I’m interested in MERN/PERN stack
+- :brain: I'm currently learning different JS libraries
 - :milky_way: I like travelling, Ubuntu, Raspberry-Pi and astronomy :telescope:
 - :spider_web: Portfolio: [https://michal-radomski.github.io](https://michal-radomski.github.io)
-- 😃 Udemy.com profile (**_for Logged In Udemy.com users only_**):
-  [https://www.udemy.com/user/michal-radomski-7](https://www.udemy.com/user/michal-radomski-7)
+<!-- - 😃 Udemy.com profile (**_for Logged In Udemy.com users only_**):
+  [https://www.udemy.com/user/michal-radomski-7](https://www.udemy.com/user/michal-radomski-7) -->
 
 </br>
 
@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://github.com/Michal-Radomski/Michal-Radomski">
-    <img src="https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D" alt ="Contributions snake game"/>
+    <img src="https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D" alt ="Global stats"/>
   </a>
 </p>
 
