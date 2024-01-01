@@ -64,7 +64,7 @@
 </br></br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Michal-Radomski&color=blueviolet" alt="counter for Michal-Radomski" />
+  <img src="https://komarev.com/ghpvc/?username=Michal-Radomski&color=blueviolet&label=Profile+views:" alt="Counter for Michal-Radomski" />
 </p>
 
 </br>
@@ -73,6 +73,10 @@
   <a href="https://github.com/Michal-Radomski/Michal-Radomski">
     <img src="https://streak-stats.demolab.com?user=Michal-Radomski&theme=default&date_format=j%20M%5B%20Y%5D" alt ="Global stats"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="Media/Udemy_stats.png" alt="Udemy Stats" width="495px" height="auto" style="border-radius: 0.75rem"/>
 </p>
 
 </br>
