@@ -67,6 +67,10 @@
   <img src="https://komarev.com/ghpvc/?username=Michal-Radomski&color=blueviolet&label=Profile+views:" alt="Counter for Michal-Radomski" />
 </p>
 
+<p class="p-footer">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/Michal-Radomski&count_bg=%238530D4&title_bg=%23515151&icon=linux.svg&icon_color=%23FCC624&title=Page+views%3A&edge_flat=false" alt="Page stats"/>
+</p>
+
 </br>
 
 <p align="center">
