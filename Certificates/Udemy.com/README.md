@@ -52,3 +52,4 @@
 <img alt="Screenshot of Udemy certificate" src="50_React_Libraries.jpg">
 <img alt="Screenshot of Udemy certificate" src="51_Webpack5_+_Vite.jpg">
 <img alt="Screenshot of Udemy certificate" src="52_Webpack5.jpg">
+<img alt="Screenshot of Udemy certificate" src="53_NextJS_&_Open_AI-GPT.jpg">
