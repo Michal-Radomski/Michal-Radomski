@@ -66,9 +66,9 @@
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=Michal-Radomski&color=blueviolet&label=Profile+views:" alt="Counter for Michal-Radomski" /> -->
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/Michal-Radomski&count_bg=%238530D4&title_bg=%23515151&icon_color=%23FCC624&title=Profile+views%3A&edge_flat=false" alt="Page stats"/>
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-
+    <a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="Stand With Ukraine"/></a>
 </p>
+
 </br>
 
 <p align="center">
