@@ -4,7 +4,7 @@
   <img align="left" style="height: 315px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=18&theme=buefy&exclude_repo=Udemy_Frontend_Courses&hide=Vue,Sass" alt="Stats"/>
 </a>
 <a href="https://github.com/Michal-Radomski?tab=repositories">
-  <img align="right" style="height: 315px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" alt="Repos"/>
+  <img align="right" style="height: 225px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" alt="Repos"/>
 </a>
 
 </br></br></br></br></br></br></br></br></br></br></br>
