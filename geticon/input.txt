@@ -28,3 +28,4 @@ openlayers
 Leafjet
 oauth
 svg
+GraphQL

@@ -2,5 +2,4 @@
 
 [Get-icon](https://github.com/get-icon/geticon) was used to generate icons.
 
-The views counter is delivered by
-[github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter).
+The views counter is delivered by [https://github.com/gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter).
