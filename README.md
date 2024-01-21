@@ -1,13 +1,13 @@
 # :fire: GitHub Languages and Stats
 
 <a href="https://github.com/Michal-Radomski?tab=repositories">
-  <img align="left" style="height: 255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=18&theme=buefy&exclude_repo=Udemy_Frontend_Courses&hide=Vue,Sass" alt="Stats"/>
+  <img align="left" style="height: 235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=18&theme=buefy&exclude_repo=Udemy_Frontend_Courses&hide=Vue,Sass,Less,Pug" alt="Stats"/>
 </a>
 <a href="https://github.com/Michal-Radomski?tab=repositories">
-  <img align="right" style="height: 255px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" alt="Repos"/>
+  <img align="right" style="height: 235px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" alt="Repos"/>
 </a>
 
-</br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br>
 
 <a href="https://github.com/Michal-Radomski/MERN_with_Stripe_and_Sendgrid">
   <img align="left" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid" alt="MERN stack app"/>
