@@ -55,3 +55,4 @@
 <img alt="Screenshot of Udemy certificate" src="53_NextJS_&_Open_AI-GPT.jpg">
 <img alt="Screenshot of Udemy certificate" src="54_GraphQL_with_JS.jpg">
 <img alt="Screenshot of Udemy certificate" src="55_GraphQL_with_React.jpg">
+<img alt="Screenshot of Udemy certificate" src="56_ChatGPT_Midjourney_DALL-E_3_&_APIs.jpg.jpg">
