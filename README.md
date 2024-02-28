@@ -32,7 +32,7 @@
 
 ## :hammer_and_wrench: Languages, Technologies and Tools
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; align-content:center, gap: 5px">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; align-content:center, gap: 4px">
 <a href="https://www.w3.org/TR/html5" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="39px" height="39px"></a>
 <!-- <a href="https://www.w3.org/TR/CSS" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="39px" height="39px"></a> -->
 <a href="https://sass-lang.com" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="39px" height="39px"></a>
