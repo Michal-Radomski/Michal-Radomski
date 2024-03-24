@@ -57,3 +57,4 @@
 <img alt="Screenshot of Udemy certificate" src="55_GraphQL_with_React.jpg">
 <img alt="Screenshot of Udemy certificate" src="56_ChatGPT_Midjourney_DALL-E_3_&_APIs.jpg">
 <img alt="Screenshot of Udemy certificate" src="57_Docker_&_Kubernetes.jpg">
+<img alt="Screenshot of Udemy certificate" src="58_GraphQL.jpg">
