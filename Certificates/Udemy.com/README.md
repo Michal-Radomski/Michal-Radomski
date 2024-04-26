@@ -60,3 +60,4 @@
 <img alt="Screenshot of Udemy certificate" src="58_GraphQL.jpg">
 <img alt="Screenshot of Udemy certificate" src="59_ML_with_JS.jpg">
 <img alt="Screenshot of Udemy certificate" src="60_TensorflowJS.jpg">
+<img alt="Screenshot of Udemy certificate" src="61_Docker.jpg">
