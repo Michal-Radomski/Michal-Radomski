@@ -63,3 +63,4 @@
 <img alt="Screenshot of Udemy certificate" src="61_Docker.jpg">
 <img alt="Screenshot of Udemy certificate" src="62_Kubernetes.jpg">
 <img alt="Screenshot of Udemy certificate" src="63_Electron.jpg">
+<img alt="Screenshot of Udemy certificate" src="64_jQuery.jpg">
