@@ -1,8 +1,6 @@
-<!-- //Todo: https://readme-typing-svg.demolab.com/demo/  ??? -->
-
 <!-- # :fire: GitHub Languages and Stats -->
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=28&pause=1000&color=1F2823&vCenter=true&random=false&width=840&height=44&lines=%F0%9F%94%A5+GitHub+Languages+and+Stats)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=1000&color=1F2823&vCenter=true&random=false&width=840&height=44&lines=%F0%9F%94%A5+GitHub+Languages+and+Stats)](https://git.io/typing-svg)
 
 <a href="https://github.com/Michal-Radomski?tab=repositories">
   <img align="left" style="height: 235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=16&theme=buefy&exclude_repo=Udemy_Frontend_Courses&hide=Vue,Sass,Less,Pug" alt="Stats"/>
@@ -22,7 +20,9 @@
 
 </br></br></br></br></br></br></br>
 
-## :man_technologist: About Me
+<!-- ## :man_technologist: About Me -->
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=22&pause=1000&color=1F2823&vCenter=true&random=false&width=840&height=33&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me)](https://git.io/typing-svg)
 
 - :wave: Hi, I’m @Michal-Radomski
 - 👀 I’m interested in MERN/PERN stack
@@ -34,7 +34,9 @@
 
 </br>
 
-## :hammer_and_wrench: Languages, Technologies and Tools
+<!-- ## :hammer_and_wrench: Languages, Technologies and Tools -->
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=22&pause=1000&color=1F2823&vCenter=true&random=false&width=840&height=33&lines=%F0%9F%9B%A0%EF%B8%8F+Languages%2C+Technologies+and+Tools)](https://git.io/typing-svg)
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; align-content:center, gap: 4px">
 <a href="https://www.w3.org/TR/html5" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="38px" height="38px"></a>
