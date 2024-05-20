@@ -1,8 +1,6 @@
 <!-- //@ https://readme-typing-svg.demolab.com/demo/ -->
 
-<!-- # :fire: GitHub Languages and Stats -->
-
-# :fire: [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=000000&center=true&random=false&width=840&lines=GitHub+Languages+and+Stats)](https://git.io/typing-svg)
+# :fire: GitHub Languages and Stats
 
 <a href="https://github.com/Michal-Radomski?tab=repositories">
   <img align="left" style="height: 235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=16&theme=buefy&exclude_repo=Udemy_Frontend_Courses&hide=Vue,Sass,Less,Pug" alt="Stats"/>
