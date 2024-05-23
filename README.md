@@ -29,6 +29,7 @@
 - :brain: I'm currently learning different JS libraries
 - :milky_way: I like travelling, Ubuntu, Raspberry-Pi and astronomy :telescope:
 - :spider_web: Portfolio: [https://michal-radomski.github.io](https://michal-radomski.github.io)
+- :bulb: Gists: [https://gist.github.com/Michal-Radomski](https://gist.github.com/Michal-Radomski)
 <!-- - 😃 Udemy.com profile (**_for Logged In Udemy.com users only_**):
   [https://www.udemy.com/user/michal-radomski-7](https://www.udemy.com/user/michal-radomski-7) -->
 
