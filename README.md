@@ -1,4 +1,3 @@
-<!-- //* Add: Ionic + courses -->
 <!-- # :fire: GitHub Languages and Stats -->
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=1000&color=1F2823&vCenter=true&random=false&width=840&height=44&lines=%F0%9F%94%A5+GitHub+Languages+and+Stats)](https://git.io/typing-svg)
@@ -31,8 +30,8 @@
 - :milky_way: I like travelling, Ubuntu, Raspberry-Pi and astronomy :telescope:
 - :spider_web: Portfolio: [https://michal-radomski.github.io](https://michal-radomski.github.io)
 - :bulb: Gists: [https://gist.github.com/Michal-Radomski](https://gist.github.com/Michal-Radomski)
-<!-- - 😃 Udemy.com profile (**_for Logged In Udemy.com users only_**):
-  [https://www.udemy.com/user/michal-radomski-7](https://www.udemy.com/user/michal-radomski-7) -->
+- :white_check_mark:
+  [List of Completed Online Courses](https://github.com/Michal-Radomski/Michal-Radomski/tree/main/Certificates)
 
 </br>
 
@@ -41,34 +40,28 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=22&pause=1000&color=1F2823&vCenter=true&random=false&width=840&height=33&lines=%F0%9F%9B%A0%EF%B8%8F+Languages%2C+Technologies+and+Tools)](https://git.io/typing-svg)
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; align-content:center, gap: 4px">
-<a href="https://www.w3.org/TR/html5" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="38px" height="38px"></a>
-<!-- <a href="https://www.w3.org/TR/CSS" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="38px" height="38px"></a> -->
-<a href="https://sass-lang.com" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="38px" height="38px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="38px" height="38px"></a>
-<a href="https://www.typescriptlang.org" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="38px" height="38px"></a>
-<a href="https://reactjs.org" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="38px" height="38px"></a>
-<a href="https://redux.js.org" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="38px" height="38px"></a>
-<!-- <a href="https://jquery.com" title="jQuery"><img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="38px" height="38px"></a> -->
-<!-- <a href="https://material-ui.com" title="Material UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="38px" height="38px"></a> -->
-<a href="https://getbootstrap.com" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="38px" height="38px"></a>
-<a href="https://nodejs.org" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="38px" height="38px"></a>
-<a href="https://expressjs.com" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="38px" height="38px"></a>
-<a href="https://www.mongodb.org" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="38px" height="38px"></a>
-<!-- <a href="https://dev.mysql.com" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="38px" height="38px"></a> -->
-<a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="38px" height="38px"></a>
-<!-- <a href="https://www.firebase.com" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="38px" height="38px"></a> -->
-<!-- <a href="https://www.gnu.org/software/bash" title="Bash"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="38px" height="38px"></a> -->
-<a href="https://www.linuxfoundation.org" title="Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="38px" height="38px"></a>
-<!-- <a href="https://www.raspberrypi.org" title="Raspberry Pi"><img src="https://github.com/get-icon/geticon/raw/master/icons/raspberry-pi.svg" alt="Raspberry Pi" width="38px" height="38px"></a> -->
-<a href="https://webpack.js.org" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="38px" height="38px"></a>
-<!-- <a href="https://jestjs.io" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="38px" height="38px"></a> -->
-<!-- <a href="https://openlayers.org" title="OpenLayers"><img src="https://github.com/get-icon/geticon/raw/master/icons/openlayers.svg" alt="OpenLayers" width="38px" height="38px"></a> -->
-<a href="https://leafletjs.com" title="Leaflet.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/leafjet.svg" alt="Leaflet.js" width="38px" height="38px"></a>
-<a href="https://www.chartjs.org" title="Chart.js"><img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="Chart.js" width="48px" height="48px"></a>
-<a href="https://oauth.net" title="OAuth"><img src="https://github.com/get-icon/geticon/raw/master/icons/oauth.svg" alt="OAuth" width="38px" height="38px"></a>
-<a href="https://www.w3.org/Graphics/SVG" title="SVG"><img src="https://github.com/get-icon/geticon/raw/master/icons/svg.svg" alt="SVG" width="38px" height="38px"></a>
-<a href="https://graphql.org" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="38px" height="38px"></a>
-<a href="https://www.docker.com" title="Docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="38px" height="38px"></a>
+<a href="https://www.w3.org/TR/html5" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="36px" height="36px"></a>
+<a href="https://sass-lang.com" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="36px" height="36px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="36px" height="36px"></a>
+<a href="https://www.typescriptlang.org" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="36px" height="36px"></a>
+<a href="https://reactjs.org" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="36px" height="36px"></a>
+<a href="https://redux.js.org" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="36px" height="36px"></a>
+<a href="https://getbootstrap.com" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="36px" height="36px"></a>
+<a href="https://nodejs.org" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="36px" height="36px"></a>
+<a href="https://expressjs.com" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="36px" height="36px"></a>
+<a href="https://www.mongodb.org" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="36px" height="36px"></a>
+<a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="36px" height="36px"></a>
+<!-- <a href="https://www.firebase.com" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="36px" height="36px"></a> -->
+<!-- <a href="https://www.gnu.org/software/bash" title="Bash"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="36px" height="36px"></a> -->
+<a href="https://www.linuxfoundation.org" title="Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="36px" height="36px"></a>
+<a href="https://webpack.js.org" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="36px" height="36px"></a>
+<a href="https://leafletjs.com" title="Leaflet.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/leafjet.svg" alt="Leaflet.js" width="36px" height="36px"></a>
+<a href="https://www.chartjs.org" title="Chart.js"><img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="Chart.js" width="46px" height="46px"></a>
+<a href="https://oauth.net" title="OAuth"><img src="https://github.com/get-icon/geticon/raw/master/icons/oauth.svg" alt="OAuth" width="36px" height="36px"></a>
+<a href="https://www.w3.org/Graphics/SVG" title="SVG"><img src="https://github.com/get-icon/geticon/raw/master/icons/svg.svg" alt="SVG" width="36px" height="36px"></a>
+<a href="https://graphql.org" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="36px" height="36px"></a>
+<a href="https://www.docker.com" title="Docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="36px" height="36px"></a>
+<a href="https://ionicframework.com" title="Ionic"><img src="https://github.com/get-icon/geticon/raw/master/icons/ionic.svg" alt="Ionic" width="36px" height="36px"></a>
 </div>
 
 </br></br>
