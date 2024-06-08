@@ -1,3 +1,4 @@
+<!-- //* Add: Ionic + courses -->
 <!-- # :fire: GitHub Languages and Stats -->
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=1000&color=1F2823&vCenter=true&random=false&width=840&height=44&lines=%F0%9F%94%A5+GitHub+Languages+and+Stats)](https://git.io/typing-svg)
