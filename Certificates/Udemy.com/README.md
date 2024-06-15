@@ -66,3 +66,4 @@
 <img alt="Screenshot of Udemy certificate" src="64_jQuery.jpg">
 <img alt="Screenshot of Udemy certificate" src="65_Deno.jpg">
 <img alt="Screenshot of Udemy certificate" src="66_Ionic_React.jpg">
+<img alt="Screenshot of Udemy certificate" src="67_Design_Patterns_in_TS.jpg">
