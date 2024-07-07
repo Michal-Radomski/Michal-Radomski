@@ -69,3 +69,4 @@
 <img alt="Screenshot of Udemy certificate" src="67_Design_Patterns_in_TS.jpg">
 <img alt="Screenshot of Udemy certificate" src="68_Design_Patterns_in_JS.jpg">
 <img alt="Screenshot of Udemy certificate" src="69_Frontend_Architecture.jpg">
+<img alt="Screenshot of Udemy certificate" src="70_Web_Performance.jpg">
