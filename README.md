@@ -1,6 +1,6 @@
 <!-- //* Alternatives -->
 <!-- https://stats4github.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=16&theme=buefy&exclude_repo=Udemy_Frontend_Courses&hide=Vue,Sass,Less,Pug
-https://stats4github.vercel.app/api?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+https://stats4github.vercel.app/api?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true
 https://stats4github.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid
 https://stats4github.vercel.app/api/pin/?username=Michal-Radomski&repo=PERN_Stack_App -->
 
