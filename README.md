@@ -4,6 +4,8 @@ https://stats4github.vercel.app/api?username=Michal-Radomski&count_private=true&
 https://stats4github.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid
 https://stats4github.vercel.app/api/pin/?username=Michal-Radomski&repo=PERN_Stack_App -->
 
+<!-- Todo: https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+
 <!-- # :fire: GitHub Languages and Stats -->
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=1000&color=1F2823&vCenter=true&random=false&width=840&height=44&lines=%F0%9F%94%A5+GitHub+Languages+and+Stats)](https://git.io/typing-svg)
