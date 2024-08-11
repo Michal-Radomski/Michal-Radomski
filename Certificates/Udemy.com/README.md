@@ -71,3 +71,4 @@
 <img alt="Screenshot of Udemy certificate" src="69_Frontend_Architecture.jpg">
 <img alt="Screenshot of Udemy certificate" src="70_Web_Performance.jpg">
 <img alt="Screenshot of Udemy certificate" src="71_PWA.jpg">
+<img alt="Screenshot of Udemy certificate" src="72_React_Native.jpg">
