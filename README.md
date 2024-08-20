@@ -12,7 +12,7 @@ https://stats4github.vercel.app/api/pin/?username=Michal-Radomski&repo=PERN_Stac
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=1000&color=1F2823&vCenter=true&random=false&width=840&height=44&lines=%F0%9F%94%A5+GitHub+Languages+and+Stats)](https://git.io/typing-svg)
 
 <a href="https://github.com/Michal-Radomski?tab=repositories">
-  <img align="left" style="height: 235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=16&theme=buefy&exclude_repo=Udemy_Frontend_Courses&hide=Vue,Sass,Less,Pug" alt="Stats"/>
+  <img align="left" style="height: 235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=18&theme=buefy&exclude_repo=Udemy_Frontend_Courses&hide=Vue,Sass,Less" alt="Stats"/>
 </a>
 <a href="https://github.com/Michal-Radomski?tab=repositories">
   <img align="right" style="height: 235px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true" alt="Repos"/>
