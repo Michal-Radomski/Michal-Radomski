@@ -73,3 +73,4 @@
 <img alt="Screenshot of Udemy certificate" src="71_PWA.jpg">
 <img alt="Screenshot of Udemy certificate" src="72_React_Native.jpg">
 <img alt="Screenshot of Udemy certificate" src="73_React_Testing_Library.jpg">
+<img alt="Screenshot of Udemy certificate" src="74_Strongly_Typed_Next.js.jpg">
