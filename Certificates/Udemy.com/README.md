@@ -76,3 +76,4 @@
 <img alt="Screenshot of Udemy certificate" src="74_Strongly_Typed_Next.js.jpg">
 <img alt="Screenshot of Udemy certificate" src="75_Selenium_Mocha.jpg">
 <img alt="Screenshot of Udemy certificate" src="76_JS_Unit_Testing.jpg">
+<img alt="Screenshot of Udemy certificate" src="77_Cypress_E2E.jpg">
