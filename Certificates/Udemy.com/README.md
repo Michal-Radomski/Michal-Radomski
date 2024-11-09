@@ -79,3 +79,4 @@
 <img alt="Screenshot of Udemy certificate" src="77_Cypress_E2E.jpg">
 <img alt="Screenshot of Udemy certificate" src="78_Unit_Testing_for_TS_with_Jest.jpg">
 <img alt="Screenshot of Udemy certificate" src="79_NextJS.jpg">
+<img alt="Screenshot of Udemy certificate" src="80_Next.js_15_&_React.jpg">
