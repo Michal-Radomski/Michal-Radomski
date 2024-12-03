@@ -10,7 +10,7 @@
   <img align="left" style="height: 260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=20&theme=buefy&exclude_repo=Udemy_Frontend_Courses&hide=Vue,Sass,Less,Markdown" alt="Stats"/>
 </a>
 <a href="https://github.com/Michal-Radomski?tab=repositories">
-  <img align="right" style="height: 260px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true&include_all_commits=false&show_icons=true" alt="Repos"/>
+  <img align="right" style="height: 260px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true&include_all_commits=false&show_icons=false" alt="Repos"/>
 </a>
 
 </br></br></br></br></br></br></br></br></br></br></br></br>
