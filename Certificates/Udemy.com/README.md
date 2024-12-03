@@ -81,3 +81,4 @@
 <img alt="Screenshot of Udemy certificate" src="79_NextJS.jpg">
 <img alt="Screenshot of Udemy certificate" src="80_Next.js_15_&_React.jpg">
 <img alt="Screenshot of Udemy certificate" src="81_NextJS.jpg">
+<img alt="Screenshot of Udemy certificate" src="82_YAML.jpg">
