@@ -10,16 +10,16 @@
   <img align="left" style="height: 260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=20&theme=buefy&exclude_repo=Udemy_Frontend_Courses&hide=Vue,Sass,Less,Markdown" alt="Stats"/>
 </a>
 <a href="https://github.com/Michal-Radomski?tab=repositories">
-  <img align="right" style="height: 260px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true&include_all_commits=true" alt="Repos"/>
+  <img align="right" style="height: 260px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true&include_all_commits=false&show_icons=true" alt="Repos"/>
 </a>
 
 </br></br></br></br></br></br></br></br></br></br></br></br>
 
 <a href="https://github.com/Michal-Radomski/MERN_with_Stripe_and_Sendgrid">
-  <img align="left" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid" alt="MERN stack app"/>
+  <img align="left" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid&show_owner=false" alt="MERN stack app"/>
 </a>
 <a href="https://github.com/Michal-Radomski/PERN_Stack_App">
-  <img align="right" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=PERN_Stack_App" alt="PERN stack app"/>
+  <img align="right" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=PERN_Stack_App&show_owner=false" alt="PERN stack app"/>
 </a>
 
 </br></br></br></br></br></br></br>
@@ -91,7 +91,11 @@
 </p>
 
 <p align="center">
-  <img src="Media/Udemy_stats.png" alt="Udemy Stats" width="495px" height="auto" style="border-radius: 0.75rem"/>
+  <img src="Media/Udemy_stats2023.png" alt="Udemy Stats" width="495px" height="auto" style="border-radius: 0.75rem"/>
+</p>
+
+<p align="center">
+  <img src="Media/Udemy_stats2024.png" alt="Udemy Stats" width="495px" height="auto" style="border-radius: 0.75rem"/>
 </p>
 
 </br>
