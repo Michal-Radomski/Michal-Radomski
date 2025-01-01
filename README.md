@@ -62,6 +62,7 @@
 <a href="https://webpack.js.org" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="32px" height="32px"></a>
 <a href="https://leafletjs.com" title="Leaflet.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/leafjet.svg" alt="Leaflet.js" width="32px" height="32px"></a>
 <a href="https://www.chartjs.org" title="Chart.js"><img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="Chart.js" width="42px" height="42px"></a>
+<a href="https://turfjs.org" title="Chart.js"><img src="https://turfjs.org/img/logo.svg" alt="Turf.js" width="42px" height="42px"></a>
 <a href="https://oauth.net" title="OAuth"><img src="https://github.com/get-icon/geticon/raw/master/icons/oauth.svg" alt="OAuth" width="32px" height="32px"></a>
 <a href="https://www.w3.org/Graphics/SVG" title="SVG"><img src="https://github.com/get-icon/geticon/raw/master/icons/svg.svg" alt="SVG" width="32px" height="32px"></a>
 <a href="https://graphql.org" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="32px" height="32px"></a>
