@@ -1,4 +1,6 @@
 <!-- Todo: https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+<!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Michal-Radomski&theme=default
+https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Michal-Radomski=default -->
 <!-- Todo: https://github.com/yoshi389111/github-profile-3d-contrib -->
 
 <!-- # :fire: GitHub Languages and Stats -->
