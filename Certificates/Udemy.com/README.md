@@ -87,3 +87,4 @@
 <img alt="Screenshot of Udemy certificate" src="85_OpenLayers.jpg">
 <img alt="Screenshot of Udemy certificate" src="86_OAuth.jpg">
 <img alt="Screenshot of Udemy certificate" src="87_OpenID_Connect.jpg">
+<img alt="Screenshot of Udemy certificate" src="88_Inkscape.jpg">
