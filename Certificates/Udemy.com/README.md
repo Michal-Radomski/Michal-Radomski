@@ -92,3 +92,4 @@
 <img alt="Screenshot of Udemy certificate" src="90_React_Three_Fiber.jpg">
 <img alt="Screenshot of Udemy certificate" src="91_ThreeJS.jpg">
 <img alt="Screenshot of Udemy certificate" src="92_ThreeJS_&_Shaders.jpg">
+<img alt="Screenshot of Udemy certificate" src="93_ThreeJS_&_more.jpg">
