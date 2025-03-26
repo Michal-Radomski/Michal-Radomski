@@ -77,7 +77,7 @@ https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?use
 
 <p align="center">
     <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/Michal-Radomski&count_bg=%238530D4&title_bg=%23515151&icon_color=%23FCC624&title=Profile+views%3A&edge_flat=false" alt="Page stats"/> -->
-    <img src="https://hits.sh/github.com/Michal-Radomski.svg?view=today-total&label=Profile%20views&extraCount=8000&color=blueviolet&labelColor=5B5B5B" alt="Page stats"/>
+    <img src="https://hits.sh/github.com/Michal-Radomski.svg?view=today-total&label=Profile%20views&extraCount=8000&color=blueviolet&labelColor=5B5B5B&logo=github" alt="Page stats"/>
     <a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="Stand With Ukraine"/></a>
 </p>
 
