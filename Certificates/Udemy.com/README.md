@@ -96,3 +96,4 @@
 <img alt="Screenshot of Udemy certificate" src="94_Three.js_with_Shaders.jpg">
 <img alt="Screenshot of Udemy certificate" src="95_WebGL.jpg">
 <img alt="Screenshot of Udemy certificate" src="96_D3.js.jpg">
+<img alt="Screenshot of Udemy certificate" src="97_GSAP.jpg">
