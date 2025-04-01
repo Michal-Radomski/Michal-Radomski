@@ -97,3 +97,4 @@
 <img alt="Screenshot of Udemy certificate" src="95_WebGL.jpg">
 <img alt="Screenshot of Udemy certificate" src="96_D3.js.jpg">
 <img alt="Screenshot of Udemy certificate" src="97_GSAP.jpg">
+<img alt="Screenshot of Udemy certificate" src="98_Canvas_Game.jpg">
