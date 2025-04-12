@@ -100,3 +100,4 @@
 <img alt="Screenshot of Udemy certificate" src="98_Canvas_Game.jpg">
 <img alt="Screenshot of Udemy certificate" src="99_Protobuf.jpg">
 <img alt="Screenshot of Udemy certificate" src="100_gRPC_with_Node.jpg">
+<img alt="Screenshot of Udemy certificate" src="101_Advanced_Git.jpg">
