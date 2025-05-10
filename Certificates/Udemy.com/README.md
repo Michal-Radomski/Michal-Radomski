@@ -102,4 +102,4 @@
 <img alt="Screenshot of Udemy certificate" src="100_gRPC_with_Node.jpg">
 <img alt="Screenshot of Udemy certificate" src="101_Advanced_Git.jpg">
 <img alt="Screenshot of Udemy certificate" src="102_Github_Actions.jpg">
-<img alt="Screenshot of Udemy certificate" src="103_Blockchain_&_Cryptocurrency.jpg">
+<img alt="Screenshot of Udemy certificate" src="104_WebRTC_&_SocketIO.jpg">
