@@ -103,3 +103,4 @@
 <img alt="Screenshot of Udemy certificate" src="101_Advanced_Git.jpg">
 <img alt="Screenshot of Udemy certificate" src="102_Github_Actions.jpg">
 <img alt="Screenshot of Udemy certificate" src="104_WebRTC_&_SocketIO.jpg">
+<img alt="Screenshot of Udemy certificate" src="105_TypeScript.jpg">
