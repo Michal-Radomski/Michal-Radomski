@@ -105,3 +105,4 @@
 <img alt="Screenshot of Udemy certificate" src="104_WebRTC_&_SocketIO.jpg">
 <img alt="Screenshot of Udemy certificate" src="105_TypeScript.jpg">
 <img alt="Screenshot of Udemy certificate" src="106_React_Query.jpg">
+<img alt="Screenshot of Udemy certificate" src="107_RxJS_&_Observables.jpg">
