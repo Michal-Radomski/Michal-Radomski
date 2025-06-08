@@ -2,6 +2,7 @@
 <!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Michal-Radomski&theme=default
 https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Michal-Radomski=default -->
 <!-- Todo: https://github.com/yoshi389111/github-profile-3d-contrib -->
+<!-- Todo: add styled-components + material-ui? -->
 
 <!-- # :fire: GitHub Languages and Stats -->
 
