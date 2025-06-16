@@ -108,3 +108,4 @@
 <img alt="Screenshot of Udemy certificate" src="107_RxJS_&_Observables.jpg">
 <img alt="Screenshot of Udemy certificate" src="108_React_Hook_Form.jpg">
 <img alt="Screenshot of Udemy certificate" src="109_Material_UI.jpg">
+<img alt="Screenshot of Udemy certificate" src="110_Lodash.jpg">
