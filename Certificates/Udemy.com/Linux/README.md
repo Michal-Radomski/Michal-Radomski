@@ -4,3 +4,4 @@
 <img alt="Screenshot of Udemy certificate" src="02_Linux_Networking.jpg">
 <img alt="Screenshot of Udemy certificate" src="03_Shell_Scripting.jpg">
 <img alt="Screenshot of Udemy certificate" src="04_Apache.jpg">
+<img alt="Screenshot of Udemy certificate" src="05_NGINX.jpg">
