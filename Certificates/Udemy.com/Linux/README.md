@@ -6,3 +6,4 @@
 <img alt="Screenshot of Udemy certificate" src="04_Apache.jpg">
 <img alt="Screenshot of Udemy certificate" src="05_NGINX.jpg">
 <img alt="Screenshot of Udemy certificate" src="06_Linux_Security.jpg">
+<img alt="Screenshot of Udemy certificate" src="07_Iptables.jpg">
