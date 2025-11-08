@@ -7,3 +7,4 @@
 <img alt="Screenshot of Udemy certificate" src="05_NGINX.jpg">
 <img alt="Screenshot of Udemy certificate" src="06_Linux_Security.jpg">
 <img alt="Screenshot of Udemy certificate" src="07_Iptables.jpg">
+<img alt="Screenshot of Udemy certificate" src="08_Kali_Linux.jpg">
