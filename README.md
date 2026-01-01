@@ -104,6 +104,10 @@ https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?use
   <img src="Media/Udemy_stats2024.png" alt="Udemy Stats" width="495px" height="auto" style="border-radius: 0.75rem"/>
 </p>
 
+<p align="center">
+  <img src="Media/Udemy_stats2025.png" alt="Udemy Stats" width="495px" height="auto" style="border-radius: 0.75rem"/>
+</p>
+
 </br>
 
 <!-- Snake svg/gif -->
