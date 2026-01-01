@@ -53,13 +53,18 @@ https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?use
 <a href="https://reactjs.org" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="30px" height="30px"></a>
 <a href="https://redux.js.org" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="30px" height="30px"></a>
 <a href="https://getbootstrap.com" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="30px" height="30px"></a>
+
+<a href="https://mui.com/material-ui" title="Material-UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material-UI" width="30px" height="30px"></a>
+
 <a href="https://nodejs.org" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="30px" height="30px"></a>
 <a href="https://expressjs.com" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="30px" height="30px"></a>
 <a href="https://www.mongodb.org" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="30px" height="30px"></a>
 <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="30px" height="30px"></a>
 <a href="https://redis.io" title="Redis"><img src="https://github.com/get-icon/geticon/raw/master/icons/redis.svg" alt="Redis" width="30px" height="30px"></a>
+
 <!-- <a href="https://www.firebase.com" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="30px" height="30px"></a> -->
 <!-- <a href="https://www.gnu.org/software/bash" title="Bash"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="30px" height="30px"></a> -->
+
 <a href="https://www.linuxfoundation.org" title="Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="30px" height="30px"></a>
 <a href="https://webpack.js.org" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="30px" height="30px"></a>
 <a href="https://leafletjs.com" title="Leaflet.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/leafjet.svg" alt="Leaflet.js" width="30px" height="30px"></a>
@@ -72,6 +77,7 @@ https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?use
 <a href="https://ionicframework.com" title="Ionic"><img src="https://github.com/get-icon/geticon/raw/master/icons/ionic.svg" alt="Ionic" width="30px" height="30px"></a>
 <a href="https://nextjs.org" title="Next.js"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nextjs-icon.svg" alt="Next.js" width="30px" height="30px"></a>
 <a href="https://threejs.org" title="Three.js"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/threejs.svg" alt="Three.js" width="30px" height="30px"></a>
+
 </div>
 
 </br></br>
