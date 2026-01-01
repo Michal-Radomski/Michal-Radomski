@@ -53,9 +53,8 @@ https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?use
 <a href="https://reactjs.org" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="30px" height="30px"></a>
 <a href="https://redux.js.org" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="30px" height="30px"></a>
 <a href="https://getbootstrap.com" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="30px" height="30px"></a>
-
 <a href="https://mui.com/material-ui" title="Material-UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material-UI" width="30px" height="30px"></a>
-
+<a href="https://styled-components.com" title="Styled-Components"><img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="Styled-Components" width="30px" height="30px"></a>
 <a href="https://nodejs.org" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="30px" height="30px"></a>
 <a href="https://expressjs.com" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="30px" height="30px"></a>
 <a href="https://www.mongodb.org" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="30px" height="30px"></a>
