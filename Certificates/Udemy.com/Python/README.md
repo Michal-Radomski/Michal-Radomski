@@ -7,3 +7,4 @@
 <img alt="Screenshot of Udemy certificate" src="05_FastApi.jpg">
 <img alt="Screenshot of Udemy certificate" src="06_AsyncIO.jpg">
 <img alt="Screenshot of Udemy certificate" src="07_Data_Visualization.jpg">
+<img alt="Screenshot of Udemy certificate" src="08_Bokeh.jpg">
