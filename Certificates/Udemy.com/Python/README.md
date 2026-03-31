@@ -13,3 +13,4 @@
 <img alt="Screenshot of Udemy certificate" src="11_DM_DA.jpg">
 <img alt="Screenshot of Udemy certificate" src="12_Astronomy_Research.jpg">
 <img alt="Screenshot of Udemy certificate" src="13_Raspberry_Pi.jpg">
+<img alt="Screenshot of Udemy certificate" src="14_Pytest.jpg">
