@@ -10,3 +10,4 @@
 <img alt="Screenshot of Udemy certificate" src="08_PKI.jpg">
 <img alt="Screenshot of Udemy certificate" src="09_SSL_TLS.jpg">
 <img alt="Screenshot of Udemy certificate" src="10_Networking.jpg">
+<img alt="Screenshot of Udemy certificate" src="11_OpenSSL.jpg">
