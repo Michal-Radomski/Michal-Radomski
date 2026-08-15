@@ -15,3 +15,4 @@
 <img alt="Screenshot of Udemy certificate" src="13_Application_Security.jpg">
 <img alt="Screenshot of Udemy certificate" src="14_OSINT.jpg">
 <img alt="Screenshot of Udemy certificate" src="15_Wireless.jpg">
+<img alt="Screenshot of Udemy certificate" src="16_Steganography.jpg">
