@@ -18,3 +18,4 @@
 <img alt="Screenshot of Udemy certificate" src="16_Steganography.jpg">
 <img alt="Screenshot of Udemy certificate" src="17_Webapp_Pentest.jpg">
 <img alt="Screenshot of Udemy certificate" src="18_Rest_Api_Hacking.jpg">
+<img alt="Screenshot of Udemy certificate" src="19_Bug_Hunting.jpg">
