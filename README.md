@@ -8,19 +8,19 @@ https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?use
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&pause=1000&color=1F2823&vCenter=true&random=false&width=840&height=44&lines=%F0%9F%94%A5+GitHub+Languages+and+Stats)](https://git.io/typing-svg)
 
 <a href="https://github.com/Michal-Radomski?tab=repositories">
-  <img align="left" style="height: 260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=20&theme=buefy&exclude_repo=Udemy_Frontend_Courses,Python-Data-Visualization,Udemy-ML-and-DS-courses&hide=Vue,Less,Markdown,Svelte" alt="Stats"/>
+  <img align="left" style="height: 260px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Michal-Radomski&layout=compact&langs_count=20&theme=buefy&exclude_repo=Udemy_Frontend_Courses,Python-Data-Visualization,Udemy-ML-and-DS-courses&hide=Vue,Less,Markdown,Svelte" alt="Stats"/>
 </a>
 <a href="https://github.com/Michal-Radomski?tab=repositories">
-  <img align="right" style="height: 260px" src="https://github-readme-stats.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true&include_all_commits=false&show_icons=false" alt="Repos"/>
+  <img align="right" style="height: 260px" src="https://github-stats-extended.vercel.app/api/?username=Michal-Radomski&count_private=true&theme=buefy&showicons=true&hide_rank=true&include_all_commits=false&show_icons=false" alt="Repos"/>
 </a>
 
 </br></br></br></br></br></br></br></br></br></br></br></br>
 
 <a href="https://github.com/Michal-Radomski/MERN_with_Stripe_and_Sendgrid">
-  <img align="left" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid&show_owner=false" alt="MERN stack app"/>
+  <img align="left" width="395" src="https://github-stats-extended.vercel.app/api/pin/?username=Michal-Radomski&repo=MERN_with_Stripe_and_Sendgrid&show_owner=false" alt="MERN stack app"/>
 </a>
 <a href="https://github.com/Michal-Radomski/PERN_Stack_App">
-  <img align="right" width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=Michal-Radomski&repo=PERN_Stack_App&show_owner=false" alt="PERN stack app"/>
+  <img align="right" width="395" src="https://github-stats-extended.vercel.app/api/pin/?username=Michal-Radomski&repo=PERN_Stack_App&show_owner=false" alt="PERN stack app"/>
 </a>
 
 </br></br></br></br></br></br></br>
