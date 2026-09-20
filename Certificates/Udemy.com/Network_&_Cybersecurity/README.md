@@ -22,3 +22,4 @@
 <img alt="Screenshot of Udemy certificate" src="20_Cryptography.jpg">
 <img alt="Screenshot of Udemy certificate" src="21_Encryption_Cryptography.jpg">
 <img alt="Screenshot of Udemy certificate" src="22_Cryptography.jpg">
+<img alt="Screenshot of Udemy certificate" src="23_Penetration_Testing.jpg">
